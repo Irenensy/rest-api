@@ -121,7 +121,6 @@ Akan ada konfigurasi (tekan saja enter):
 ? In which directory is your code located? ./
 ? Want to modify these settings? no
 ```
-
 5. Vercel akan otomatis mendeteksi file **vercel.json** dan menggunakan runtime @vercel/php.
 Setelah selesai, kamu akan dapat URL publik seperti:
 ```
